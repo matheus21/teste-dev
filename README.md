@@ -4,7 +4,7 @@ Para realizar o teste foi utilizado o framework Lumen, abaixo seguem algumas ins
 
 - Instalação de libs `php-curl` e `php-xml` (sudo apt install php-curl php-xml)
 - Executar o comando `composer install` na raiz do projeto (prova_dev)
-- Para subir o projeto, executar o comando: `php -S localhost:8005 -t public` (Ou qualquer outra porta no lugar de `8005)
+- Para subir o projeto, executar o comando: `php -S localhost:8005 -t public` (Ou qualquer outra porta no lugar de `8005`)
 
 ## Rotas
 
